@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "166570467906",
+    "project_id": "xino-xpress-services",
+    "storage_bucket": "xino-xpress-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166570467906:android:d636ec7fad91d4c54a83db",
+        "android_client_info": {
+          "package_name": "com.example.xino_xpress_service"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAncLfMQkqzWiD3fgrXjJAu2mCQhWi9QiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
